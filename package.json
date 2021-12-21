@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bitwiseTone.github.io/monster-rolodex",
+  "homepage": "https://bitwiseTone.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
